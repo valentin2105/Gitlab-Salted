@@ -1,0 +1,10 @@
+gitlab:
+  version: jessie
+  url: http://gitlab.domain.com
+  smtp: smtp.domain.com
+  smtp_port: 587
+  smtp_username: example
+  smtp_password: example
+  smtp_domain: domain.nc
+  email_from: git@domain.com
+
